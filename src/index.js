@@ -9,7 +9,7 @@ const list =
       [
         React.createElement('li', {className: 'brown'}, 'Chocolate'),
         React.createElement('li', {className: 'white'}, 'Vanilla'),
-        React.createElement('li', {class: 'yellow'}, 'Banana')
+        React.createElement('li', {className: 'yellow'}, 'Banana')
       ]
     )
   );
