@@ -14,6 +14,6 @@ const list =
     )
   );
 ReactDOM.render(
-  container,
+  list,
   document.getElementById('global')
 );
